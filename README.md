@@ -2,7 +2,6 @@
 
 ---
 - 국가수리과학연구소 광교 산업수학 혁신센터 학부연수생 - 2021.07.05 ~ 2021. 08.13 (6주)
----
 - 연수 주제: 수리모델링을 통한 코로나19 예측 및 분석
   - 1주차: SIR Model, Euler Method, Scipy Library, Refactoring
   - 2주차: Git & Github, 공공데이터포털 코로나 19 API, steady state stability, IVP Model
